@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\bin\Debug\Bai2.exe.config
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\bin\Debug\Bai2.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\bin\Debug\Bai2.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\obj\Debug\Bai2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\obj\Debug\Bai2.Form1.resources
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\obj\Debug\Bai2.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\obj\Debug\Bai2.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\HuynhHuuDuc_BaiTapMau\Bai2\obj\Debug\Bai2.pdb
